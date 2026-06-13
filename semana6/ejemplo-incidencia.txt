@@ -1,0 +1,4 @@
+{
+  "tipo": "Medio ambiente",
+  "descripcion": "Vecinos del sector reportan acumulación constante de residuos en una zona verde, lo que genera malos olores y afecta la calidad del entorno."
+}
